@@ -1,0 +1,73 @@
+2021-12-19 23:26:23 INFO  TaskController:232 - Task temp task was added
+versionPattern=2021-12-19 23:26:23 INFO  TaskController:232 - Task temp task was added
+2021-12-19 23:32:51 INFO  TaskController:20 - Controller was executed
+ersionPattern=2021-12-19 23:32:51 INFO  TaskController:20 - Controller was executed
+2021-12-19 23:35:32 INFO  TaskController:246 - Tasks were loaded from json file
+ersionPattern=2021-12-19 23:35:32 INFO  TaskController:246 - Tasks were loaded from json file
+2021-12-19 23:36:36 INFO  TaskController:246 - Tasks were loaded from json file
+ersionPattern=2021-12-19 23:36:36 INFO  TaskController:246 - Tasks were loaded from json file
+2021-12-19 23:39:49 INFO  TaskController:246 - Tasks were loaded from json file
+ersionPattern=2021-12-19 23:39:49 INFO  TaskController:246 - Tasks were loaded from json file
+2021-12-19 23:39:49 INFO  TaskController:69 - Action was picked successfully
+ersionPattern=2021-12-19 23:39:49 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:39:52 INFO  TaskController:73 - For input string: "l"
+ersionPattern=2021-12-19 23:39:52 INFO  TaskController:73 - For input string: "l"
+2021-12-19 23:39:52 INFO  TaskController:69 - Action was picked successfully
+ersionPattern=2021-12-19 23:39:52 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:40:12 INFO  TaskController:246 - Tasks were loaded from json file
+ersionPattern=2021-12-19 23:40:12 INFO  TaskController:246 - Tasks were loaded from json file
+2021-12-19 23:40:12 INFO  TaskController:71 - Action was picked successfully
+ersionPattern=2021-12-19 23:40:12 INFO  TaskController:71 - Action was picked successfully
+2021-12-19 23:40:13 INFO  TaskController:75 - For input string: "l"
+ersionPattern=2021-12-19 23:40:13 INFO  TaskController:75 - For input string: "l"
+2021-12-19 23:40:13 INFO  TaskController:71 - Action was picked successfully
+ersionPattern=2021-12-19 23:40:13 INFO  TaskController:71 - Action was picked successfully
+2021-12-19 23:40:16 INFO  TaskController:71 - Action was picked successfully
+ersionPattern=2021-12-19 23:40:16 INFO  TaskController:71 - Action was picked successfully
+2021-12-19 23:42:04 INFO  TaskController:252 - Tasks were loaded from json file
+ersionPattern=2021-12-19 23:42:04 INFO  TaskController:252 - Tasks were loaded from json file
+2021-12-19 23:42:04 INFO  TaskController:71 - Action was picked successfully
+ersionPattern=2021-12-19 23:42:04 INFO  TaskController:71 - Action was picked successfully
+2021-12-19 23:42:17 INFO  TaskController:42 - Task temp taskwas deleted
+ersionPattern=2021-12-19 23:42:17 INFO  TaskController:42 - Task temp taskwas deleted
+2021-12-19 23:42:17 INFO  TaskController:71 - Action was picked successfully
+ersionPattern=2021-12-19 23:42:17 INFO  TaskController:71 - Action was picked successfully
+2021-12-19 23:42:20 INFO  TaskController:71 - Action was picked successfully
+ersionPattern=2021-12-19 23:42:20 INFO  TaskController:71 - Action was picked successfully
+2021-12-19 23:42:22 INFO  TaskController:262 - Tasks were loaded to json file
+ersionPattern=2021-12-19 23:42:22 INFO  TaskController:262 - Tasks were loaded to json file
+2021-12-19 23:42:22 INFO  TaskController:51 - App was closed
+ersionPattern=2021-12-19 23:42:22 INFO  TaskController:51 - App was closed
+2021-12-19 23:42:22 INFO  TaskController:20 - Controller was executed
+ersionPattern=2021-12-19 23:42:22 INFO  TaskController:20 - Controller was executed
+2021-12-19 23:42:57 INFO  TaskController:252 - Tasks were loaded from json file
+ersionPattern=2021-12-19 23:42:57 INFO  TaskController:252 - Tasks were loaded from json file
+2021-12-19 23:42:57 INFO  TaskController:69 - Action was picked successfully
+ersionPattern=2021-12-19 23:42:57 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:43:07 INFO  TaskController:244 - For input string: "l"
+ersionPattern=2021-12-19 23:43:07 INFO  TaskController:244 - For input string: "l"
+2021-12-19 23:43:07 INFO  TaskController:69 - Action was picked successfully
+ersionPattern=2021-12-19 23:43:07 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:43:12 INFO  TaskController:69 - Action was picked successfully
+ersionPattern=2021-12-19 23:43:12 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:45:13 INFO  TaskController:252 - Tasks were loaded from json file%versionPattern=2021-12-19 23:45:13 INFO  TaskController:252 - Tasks were loaded from json file
+2021-12-19 23:45:13 INFO  TaskController:69 - Action was picked successfully%versionPattern=2021-12-19 23:45:13 INFO  TaskController:69 - Action was picked successfully
+Tasks were loaded from json file
+Action was picked successfully
+Tasks were loaded to json file
+App was closed
+Controller was executed
+2021-12-19 23:45:39 INFO  TaskController:252 - Tasks were loaded from json file%versionPattern=2021-12-19 23:45:39 INFO  TaskController:252 - Tasks were loaded from json file
+2021-12-19 23:45:39 INFO  TaskController:69 - Action was picked successfully%versionPattern=2021-12-19 23:45:39 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:45:55 INFO  TaskController:252 - Tasks were loaded from json file%?ersionPattern=2021-12-19 23:45:55 INFO  TaskController:252 - Tasks were loaded from json file
+2021-12-19 23:45:55 INFO  TaskController:69 - Action was picked successfully%?ersionPattern=2021-12-19 23:45:55 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:46:01 INFO  TaskController:252 - Tasks were loaded from json file%ersionPattern=2021-12-19 23:46:01 INFO  TaskController:252 - Tasks were loaded from json file
+2021-12-19 23:46:01 INFO  TaskController:69 - Action was picked successfully%ersionPattern=2021-12-19 23:46:01 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:46:07 INFO  TaskController:252 - Tasks were loaded from json file
+ersionPattern=2021-12-19 23:46:07 INFO  TaskController:252 - Tasks were loaded from json file
+2021-12-19 23:46:07 INFO  TaskController:69 - Action was picked successfully
+ersionPattern=2021-12-19 23:46:07 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:46:14 INFO  TaskController:252 - Tasks were loaded from json file%versionPattern=2021-12-19 23:46:14 INFO  TaskController:252 - Tasks were loaded from json file
+2021-12-19 23:46:14 INFO  TaskController:69 - Action was picked successfully%versionPattern=2021-12-19 23:46:14 INFO  TaskController:69 - Action was picked successfully
+2021-12-19 23:51:54 INFO  TaskController:252 - Tasks were loaded from json file%versionPattern=2021-12-19 23:51:54 INFO  TaskController:252 - Tasks were loaded from json file
+2021-12-19 23:51:54 INFO  TaskController:69 - Action was picked successfully%versionPattern=2021-12-19 23:51:54 INFO  TaskController:69 - Action was picked successfully
