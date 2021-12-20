@@ -28,7 +28,7 @@ public class TaskIO {
                 }
             }
         } catch (IOException e) {
-            e.printStackTrace(); // TODO: handle exception
+            e.printStackTrace(); 
         }
     }
 
@@ -55,7 +55,7 @@ public class TaskIO {
                 tasks.add(t);
             }
         } catch (IOException e) {
-            e.printStackTrace(); // TODO: handle exception
+            e.printStackTrace(); 
         }
     }
 
@@ -63,7 +63,7 @@ public class TaskIO {
         try (BufferedOutputStream bos = new BufferedOutputStream(new FileOutputStream(file))) {
             write(tasks, bos);
         } catch (IOException e) {
-            e.printStackTrace(); // TODO: handle exception
+            e.printStackTrace(); 
         }
     }
 
@@ -71,7 +71,7 @@ public class TaskIO {
         try (BufferedInputStream bis = new BufferedInputStream(new FileInputStream(file))) {
             read(tasks, bis);
         } catch (IOException e) {
-            e.printStackTrace(); // TODO: handle exception
+            e.printStackTrace(); 
         }
     }
 
